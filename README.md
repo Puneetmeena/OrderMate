@@ -1,18 +1,13 @@
-# Nasta
-Online Food Ordering App
+# OrderMate
+No more standing in queues for fast food in restaurants and food courts. The solution is here.
 
-User can order food online and see the status in real time
+User can order food online and see the status in real time as well as wall inside a food court and order at the table from your phone.
 
-<h1> Status : In Progress</h1>
-<h1><a href="https://github.com/saitejdandge/Nasta-Android-Application/blob/master/Nasta-com.tdevelopers.nasta-1-v1.0.apk">APK</a></h1>
 <h1>Technicalities</h1>
    
   
-  <b><li>Mongo Database</li></b>
-  <b> <li>Google Cloud Messaging</li></b>
-   <b> <li>Picasso Image Loader</li></b>
-    <b><li>Palette Color Detection</li></b>
-   <b> <li>Firebase Invites</li></b>
+  <b><li>Sqlite Database</li></b>
+  <b> <li>Django based backend</li></b>
     <b><li>REST API calls</li></b>
     
 <h1>Screens</h1>
