@@ -10,22 +10,16 @@ User can order food online and see the status in real time as well as wall insid
   <b> <li>Django based backend</li></b>
     <b><li>REST API calls</li></b>
     
-<h1>Screens</h1>
 
-<table>
-<tr>
+# About
+<p>This project was made as a product of hack@bvp 2017. It comprises of an android application for customers to place their orders and a web application portal for the vendors to recieve the orders and revert back to the customers when the order is ready.</P.
 
-<th><img width="500px" height="500px" src="Images/1.jpeg"/></th>
-<th><img width="500px" height="500px" src="Images/2.jpeg"/></th>
+# Real Life Problems Solved
+1. No more standing in queue for placing or recieving your order.
+2. Less hassle for the same
 
-<th><img width="500px" height="500px" src="Images/3.jpeg"/></th>
-</tr>
-<tr>
-
-<th><img width="500px" height="500px" src="Images/4.jpeg"/></th>
-</tr>
-<table>
-
+# How to use it in your local machine
+<strong><i>Under construction, will revert back soon :)</i></strong>
     
 
 
