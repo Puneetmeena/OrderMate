@@ -21,5 +21,9 @@ User can order food online and see the status in real time as well as wall insid
 # How to use it in your local machine
 <strong><i>Under construction, will revert back soon :)</i></strong>
     
-
-
+# Contributors
+1. Raju Jha - <a href="https://www.github.com/rajujha373">Github</a>
+2. Yugal Sharma - <a href="https://www.github.com/yugrocks">Github</a>
+3. Rahul Pandey - <a href="https://www.github.com/rahularity21">Github</a>
+4. Puneet Meena - <a href="https://www.github.com/puneetmeena">Github</a>
+5. Harshit - <a href="https://www.github.com/lckured">Github</a>
